@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="var" path="Google Data Plugin">
+		<attributes>
+			<attribute name="plugin_id" value="com.google.gdata"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Harivardhan/Documents/272 Ranjan/Project/gdata-java-client/gdata-src.java-1.47.1/gdata/third_party/guava-r07/guava-r07.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harivardhan/Documents/272 Ranjan/Project/gdata-java-client/gdata-src.java-1.47.1/gdata/third_party/guava-r07/guava-r07-gwt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harivardhan/Documents/272 Ranjan/Project/gdata-java-client/gdata-src.java-1.47.1/gdata/third_party/javamail-1.4.7/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harivardhan/Documents/272 Ranjan/Project/gdata-java-client/gdata-src.java-1.47.1/gdata/third_party/apache-tomcat-7.0.39/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harivardhan/Documents/272 Ranjan/Project/gdata-java-client/gdata-src.java-1.47.1/gdata/third_party/jaf-1.1.1/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harivardhan/Documents/272 Ranjan/Project/gdata-java-client/gdata-src.java-1.47.1/gdata/java/lib/gdata-calendar-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harivardhan/Documents/272 Ranjan/Project/gdata-java-client/gdata-src.java-1.47.1/gdata/java/lib/gdata-calendar-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harivardhan/Documents/272 Ranjan/Project/gdata-java-client/gdata-src.java-1.47.1/gdata/java/lib/gdata-client-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harivardhan/Documents/272 Ranjan/Project/gdata-java-client/gdata-src.java-1.47.1/gdata/java/lib/gdata-client-meta-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harivardhan/Documents/272 Ranjan/Project/gdata-java-client/gdata-src.java-1.47.1/gdata/java/lib/gdata-core-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harivardhan/Documents/272 Ranjan/Project/gdata-java-client/gdata-src.java-1.47.1/gdata/java/lib/gdata-media-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harivardhan/workspace/UniversityRecordSystem/WebContent/WEB-INF/lib/mysql-connector-java-5.1.24-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
